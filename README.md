@@ -1,4 +1,4 @@
-# Hi there, I'm Nakiri 👋
+# Hi there 👋
 
 ### 👨‍💻 Full Stack Web & Mobile Developer
 
